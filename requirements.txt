@@ -1,0 +1,17 @@
+keras==3.5.0
+nltk==3.8.1
+regex
+uvicorn
+spaces
+numpy
+h5py
+nltk
+numpy==1.26.4
+protobuf==3.20.3
+streamlit==1.5.1  # Requested version
+pandas
+scikit-learn  # often needed for label encoders/MLBs, even if not explicitly imported
+tensorflow
+
+
+
